@@ -1,0 +1,5 @@
+C:\Users\Bil\Documents\Visual Studio 2008\Projects\NerdDinner\NerdDinner\bin\NerdDinner.dll
+C:\Users\Bil\Documents\Visual Studio 2008\Projects\NerdDinner\NerdDinner\bin\NerdDinner.pdb
+C:\Users\Bil\Documents\Visual Studio 2008\Projects\NerdDinner\NerdDinner\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bil\Documents\Visual Studio 2008\Projects\NerdDinner\NerdDinner\obj\Debug\NerdDinner.dll
+C:\Users\Bil\Documents\Visual Studio 2008\Projects\NerdDinner\NerdDinner\obj\Debug\NerdDinner.pdb

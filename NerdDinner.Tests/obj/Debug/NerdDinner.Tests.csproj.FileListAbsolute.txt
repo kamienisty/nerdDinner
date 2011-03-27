@@ -1,0 +1,8 @@
+C:\Users\Bil\Documents\Visual Studio 2008\Projects\NerdDinner\NerdDinner.Tests\bin\Debug\NerdDinner.Tests.dll.config
+C:\Users\Bil\Documents\Visual Studio 2008\Projects\NerdDinner\NerdDinner.Tests\bin\Debug\NerdDinner.Tests.dll
+C:\Users\Bil\Documents\Visual Studio 2008\Projects\NerdDinner\NerdDinner.Tests\bin\Debug\NerdDinner.Tests.pdb
+C:\Users\Bil\Documents\Visual Studio 2008\Projects\NerdDinner\NerdDinner.Tests\bin\Debug\NerdDinner.dll
+C:\Users\Bil\Documents\Visual Studio 2008\Projects\NerdDinner\NerdDinner.Tests\bin\Debug\NerdDinner.pdb
+C:\Users\Bil\Documents\Visual Studio 2008\Projects\NerdDinner\NerdDinner.Tests\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bil\Documents\Visual Studio 2008\Projects\NerdDinner\NerdDinner.Tests\obj\Debug\NerdDinner.Tests.dll
+C:\Users\Bil\Documents\Visual Studio 2008\Projects\NerdDinner\NerdDinner.Tests\obj\Debug\NerdDinner.Tests.pdb
